@@ -1,4 +1,4 @@
-# Web Scraping in Python
+# Web Scraping using BeautifulSoup and Scrapy
 Web Scraping in Python with Beautifulsoup and Selenium. 
 
 ## Description
